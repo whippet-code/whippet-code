@@ -14,7 +14,7 @@
 
 🐕 Papa to a rascally whippet. 
 
-☕️ ---![Espresso Fan](https://github.com/whippet-code/whippet-code/blob/89f5c05408a50d48fdd7cc2070ad9319508be5ad/pexels-alp-y%C4%B1ld%C4%B1zlar-15138581.jpg) --- ☕️
+☕️ ---![Espresso Fan](https://github.com/whippet-code/whippet-code/blob/0b5a191d18386eb13204bbb8a5e0b133f0c873ee/pexels-engin-akyurt-2347380.jpg) --- ☕️
 
 <!--
 **whippet-code/whippet-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
