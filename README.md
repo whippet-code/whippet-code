@@ -7,7 +7,7 @@
 #### HyperionDev bootcamp grad currently on the hunt for that first position.
 
 
-🌱 I’m currently learning if Astro is going to be my kind of thing. 
+🌱 I’m currently learning Astro to see if it's going to be my kind of thing. 
 
 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/mark-ivkovic-68822474/)
 
