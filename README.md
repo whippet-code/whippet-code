@@ -6,11 +6,13 @@
 #### I'm a UK based web developer, currently working with MERN stack technologies and an inquisitive mind.
 #### HyperionDev bootcamp grad currently on the hunt for that first position.
 
+🔭 I’m currently working on my full stack final project. MongoDB, Express.js, React build. Throwing in Redux, Mongoose, JWT, node..... to get it all working.
 
-🌱 I’m currently learning Astro to see if it's going to be my kind of thing. 
+🌱 I’m currently learning handling JWT authentication / authorization through the stack. Also still figuring out my workflow using copilot (my shouty mouthed pair-programmer.......) 
 
 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/mark-ivkovic-68822474/)
 
+💬 Ask me about breathing (trust me, it's more complex than you know). Also cycling, see you on Zwift!
 
 🐕 Papa to a rascally whippet. 
 
