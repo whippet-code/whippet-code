@@ -17,12 +17,10 @@
 🐕 Papa to a rascally whippet. 
 
 Today I learnt that deleting old repos that were created for bootcamp tasks removes those commits from my graph...... it's not so green now :(
-<p align="center">
-  <img src="[https://d1fdloi71mui9q.cloudfront.net/EnURNTC2TbygUnaBqDzl_Ar7B1A0BMyJ21bnD](https://images.unsplash.com/photo-1515335352276-2fa88c590bb3?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80)">
-</p>
+
 ☕️
 <p align="center">
-  <img src="[https://d1fdloi71mui9q.cloudfront.net/EnURNTC2TbygUnaBqDzl_Ar7B1A0BMyJ21bnD](https://images.unsplash.com/photo-1515335352276-2fa88c590bb3?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80)">
+  <img src="https://images.unsplash.com/photo-1515335352276-2fa88c590bb3?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80">
 </p>
 ☕️
 
