@@ -8,7 +8,7 @@
 
 🔭 I’m currently building my Photo Mooch project. A full stack web app linked to @photo_mooch on Instagram. A creative prompt, art therapy app. MongoDB, Express.js, React build. Throwing in Redux, Mongoose, JWT, node..... to get it all working.
 
-🌱 I’m currently learning deeper React / Redux features. Also still figuring out my workflow using copilot (my shouty mouthed pair-programmer.......) 
+🌱 I’m currently still figuring out my workflow using copilot (my shouty mouthed pair-programmer.......) 
 
 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/mark-ivkovic-68822474/)
 
@@ -24,7 +24,7 @@ Today I learnt that deleting old repos that were created for bootcamp tasks remo
 </p>
 ☕️
 
-🎮 - Current game du jour - Battlefield 2042
+🎮 - Current game du jour - Battlefield 2042.
 
 <!--
 **whippet-code/whippet-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
