@@ -3,7 +3,7 @@
 <code><img height="30" src="https://raw.githubusercontent.com/dereknguyen269/dereknguyen269/master/images/css3.png"></code>CSS3
 <code><img height="30" src="https://raw.githubusercontent.com/dereknguyen269/dereknguyen269/master/images/js.png"></code>Javascript
 <code><img height="30" src="https://raw.githubusercontent.com/dereknguyen269/dereknguyen269/master/images/reactjs.png"></code>React
-#### I'm a UK based web developer, currently working with MERN stack technologies and an inquisitive mind.
+#### I'm a UK based web developer, currently working with Javascript, React and next.js technologies and an inquisitive mind.
 #### HyperionDev bootcamp grad currently on the hunt for that first position.
 
 🔭 I’m currently building my Photo Mooch project. A full stack web app linked to @photo_mooch on Instagram. A creative prompt, art therapy app. MongoDB, Express.js, React build. Throwing in Redux, Mongoose, JWT, node..... to get it all working.
