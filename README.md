@@ -6,7 +6,8 @@
 #### I'm a UK based web developer, currently working with Javascript, React and next.js technologies and an inquisitive mind.
 #### HyperionDev bootcamp grad currently on the hunt for that first position.
 
-🔭 I’m currently updating my Photo Mooch project. A full stack web app linked to @photo_mooch on Instagram. A creative prompt, art therapy app. MongoDB, Express.js, React build. Refactoring some parts and adding some extra functionality. <a href="https://photomooch.onrender.com/">[PhotoMooch]</a>
+🔭 I’m currently updating my Photo Mooch project. A full stack web app linked to @photo_mooch on Instagram. A creative prompt, art therapy app. MongoDB, Express.js, React build. Refactoring some parts and adding some extra functionality. 
+Feel free to have a play - <a href="https://photomooch.onrender.com/">PhotoMooch</a>
 
 🌱 I’m currently still figuring out my workflow using copilot (my shouty mouthed pair-programmer.......) 
 
