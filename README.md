@@ -3,10 +3,10 @@
 <code><img height="30" src="https://raw.githubusercontent.com/dereknguyen269/dereknguyen269/master/images/css3.png"></code>CSS3
 <code><img height="30" src="https://raw.githubusercontent.com/dereknguyen269/dereknguyen269/master/images/js.png"></code>Javascript
 <code><img height="30" src="https://raw.githubusercontent.com/dereknguyen269/dereknguyen269/master/images/reactjs.png"></code>React
-#### I'm a UK based web developer, currently working with Javascript, React and next.js technologies and an inquisitive mind.
+#### I'm a UK based web developer, currently working with Javascript, React, next.js technologies and an inquisitive mind.
 #### HyperionDev bootcamp grad currently on the hunt for that first position.
 
-🔭 I’m currently updating my Photo Mooch project. A full stack web app linked to @photo_mooch on Instagram. A creative prompt, art therapy app. MongoDB, Express.js, React build. Refactoring some parts and adding some extra functionality. 
+##### 🔭 Current project has me updating PhotoMooch. My full stack web app linked to @photo_mooch on Instagram. A creative prompt, art therapy app. MongoDB, Express.js, React build. Refactoring some parts and adding some extra functionality. 
 Feel free to have a play - <a href="https://photomooch.onrender.com/">PhotoMooch</a>
 
 🌱 I’m currently still figuring out my workflow using copilot (my shouty mouthed pair-programmer.......) 
@@ -16,9 +16,6 @@ Feel free to have a play - <a href="https://photomooch.onrender.com/">PhotoMooch
 💬 Ask me about breathing (trust me, it's more complex than you know). Also cycling, see you on Zwift!
 
 🐕 Papa to a rascally whippet. 
-
-
-Today I learnt that deleting old repos that were created for bootcamp tasks removes those commits from my graph...... it's not so green now :(
 
 ☕️
 <p align="center">
