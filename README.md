@@ -1,10 +1,11 @@
 ### 👋 Hi there, Mark here.
-<section style="text-align: center">
+<div style="text-align: center;">
 <code><img height="30" src="https://raw.githubusercontent.com/dereknguyen269/dereknguyen269/master/images/html.png"></code>HTML5
 <code><img height="30" src="https://raw.githubusercontent.com/dereknguyen269/dereknguyen269/master/images/css3.png"></code>CSS3
 <code><img height="30" src="https://raw.githubusercontent.com/dereknguyen269/dereknguyen269/master/images/js.png"></code>Javascript
 <code><img height="30" src="https://raw.githubusercontent.com/dereknguyen269/dereknguyen269/master/images/reactjs.png"></code>React
-  </section>
+ </div>
+  
 #### I'm a UK based web developer, currently working with Javascript, React, next.js technologies and an inquisitive mind.
 #### HyperionDev bootcamp grad currently on the hunt for that first position.
 
