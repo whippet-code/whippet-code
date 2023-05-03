@@ -20,6 +20,7 @@ Feel free to have a play - <a href="https://photomooch.onrender.com/">PhotoMooch
 💬 Ask me about breathing (trust me, it's more complex than you know). Also cycling, see you on Zwift!
 
 🐕 Papa to a rascally whippet. 
+⚡ Fun fact: Currently addicted to [Starcade](https://www.youtube.com/@starcade6611)
 
 ☕️
 <p align="center">
@@ -28,6 +29,7 @@ Feel free to have a play - <a href="https://photomooch.onrender.com/">PhotoMooch
 ☕️
 ⚡ - Lover of anything Cyberpunk, hence.......
 🎮 - Current game du jour - Cyberpunk 2077
+
 
 <!--
 **whippet-code/whippet-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
