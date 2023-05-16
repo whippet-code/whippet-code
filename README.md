@@ -8,12 +8,12 @@
 </p>
   
 #### I'm a UK based web developer, currently working with Javascript, React, node.js technologies and an inquisitive mind.
-#### HyperionDev bootcamp grad currently on the hunt for that first position.
-
 ##### 🔭 Current project has me updating PhotoMooch. My full stack web app linked to @photo_mooch on Instagram. A creative prompt, art therapy app. MongoDB, Express.js, React build. Refactoring some parts and adding some extra functionality. 
 Feel free to have a play - <a href="https://photomooch.onrender.com/">PhotoMooch</a>
 
-🌱 I’m currently still figuring out my workflow using copilot (my shouty mouthed pair-programmer.......) & looking at next.js 13. 
+##### HyperionDev bootcamp grad currently on the hunt for that first position.
+
+🌱 I’m currently digging deep into testing. JEST, RTL. 
 
 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/mark-ivkovic-68822474/)
 
