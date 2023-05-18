@@ -9,7 +9,9 @@
   
 ### I'm a UK based full stack web developer, currently working with Javascript, React, node.js technologies and an inquisitive mind.
 
-#### 🔭 Current project has me updating PhotoMooch. My full stack web app linked to @photo_mooch on Instagram. A creative prompt, art therapy app. MongoDB, Express.js, React build. Refactoring some parts and adding some extra functionality. 
+#### 🔭 Current project - A fully fledged blogging platform. A small team build, bringing together a team of UI/UX designers, DevOps, Testing & developers. Agile working using SCRUM methedology, remote team working together. Tech stack - React, JS, Node / Express, SQL.
+
+Previous build was updating PhotoMooch. My full stack web app linked to @photo_mooch on Instagram. A creative prompt, art therapy app. MongoDB, Express.js, React build. Refactoring some parts and adding some extra functionality. 
 Feel free to have a play - <a href="https://photomooch.onrender.com/">PhotoMooch</a>
 
 🌱 I’m currently digging deep into testing. JEST, RTL. 
