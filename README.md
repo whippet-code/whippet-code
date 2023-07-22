@@ -14,14 +14,15 @@
 Previous build was updating PhotoMooch. My full stack web app linked to @photo_mooch on Instagram. A creative prompt, art therapy app. MongoDB, Express.js, React build. Refactoring some parts and adding some extra functionality. 
 Feel free to have a play - <a href="https://photomooch.onrender.com/">PhotoMooch</a>
 
-🌱 I’m currently digging deep into testing. JEST, RTL. 
+🌱 I’m currently digging deep into Astro builds utilising mixed Multipage & single page builds for maximum efficiency.
 
 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/mark-ivkovic-68822474/)
 
-💬 Ask me about breathing (trust me, it's more complex than you know). Also cycling, see you on Zwift!
+💬 Ask me about breathing (trust me, it's more complex than you know).
 
 🐕 Papa to a rascally whippet. 
 ⚡ Fun fact: Currently addicted to [Starcade](https://www.youtube.com/@starcade6611)
+Often found running the local hills and trails or bobbing about in the local lakes & rivers.
 
 ☕️
 <p align="center">
