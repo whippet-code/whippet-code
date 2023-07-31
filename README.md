@@ -14,7 +14,7 @@
 Previous build was updating PhotoMooch. My full stack web app linked to @photo_mooch on Instagram. A creative prompt, art therapy app. MongoDB, Express.js, React build. Refactoring some parts and adding some extra functionality. 
 Feel free to have a play - <a href="https://photomooch.onrender.com/">PhotoMooch</a>
 
-🌱 I’m currently digging deep into Astro builds utilising mixed Multipage & single page builds for maximum efficiency.
+🌱 I’m currently working with [Grimm & Co.](https://grimmandco.co.uk/) to update and modernise thier site. This has me rapidly getting to grips with Wordpress whilst also dealing with a legacy site which require improvements with respects performance and modern standards.
 
 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/mark-ivkovic-68822474/)
 
