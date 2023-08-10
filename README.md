@@ -18,7 +18,7 @@ Feel free to have a play - <a href="https://photomooch.onrender.com/">PhotoMooch
 
 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/mark-ivkovic-68822474/)
 
-💬 Ask me about breathing (trust me, it's more complex than you know).
+## 💬 Ask me about breathing (trust me, it's more complex than you know).
 
 🐕 Papa to a rascally whippet. 
 ⚡ Fun fact: Currently addicted to [Starcade](https://www.youtube.com/@starcade6611)
@@ -29,8 +29,8 @@ Often found running the local hills and trails or bobbing about in the local lak
   <img src="https://images.unsplash.com/photo-1515335352276-2fa88c590bb3?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80" height="500px">
 </p>
 ☕️
-⚡ - Lover of anything Cyberpunk, hence.......
-🎮 - Current game du jour - Cyberpunk 2077
+⚡ - Lover of anything Cyberpunk
+🎮 - Current game du jour - Tiny Epic Tactics (I've gone boardgame for a bit)
 
 
 <!--
