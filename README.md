@@ -5,8 +5,6 @@
  <code><img height="30" src="https://raw.githubusercontent.com/dereknguyen269/dereknguyen269/master/images/js.png"></code>Javascript
  <code><img height="30" src="https://raw.githubusercontent.com/github/explore/5cc0a03a302ec862c4aeac2a22a513ae31c35432/topics/astro/astro.png"></code>Astro
  code><img height="30" src="https://e7.pngegg.com/pngimages/493/735/png-clipart-node-js-javascript-express-js-mongodb-github-github-angle-text.png"></code>node.js
- <code><img height="30" src="https://raw.githubusercontent.com/dereknguyen269/dereknguyen269/master/images/html.png"></code>HTML5
- <code><img height="30" src="https://raw.githubusercontent.com/dereknguyen269/dereknguyen269/master/images/css3.png"></code>CSS3
 </p>
   
 ### I'm a UK based full stack web developer, currently working with Javascript, React, node.js technologies and an inquisitive mind.
