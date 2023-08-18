@@ -28,7 +28,7 @@ Often found running the local hills and trails or bobbing about in the local lak
 <p align="center">
   <img src="https://images.unsplash.com/photo-1515335352276-2fa88c590bb3?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80" height="500px">
 </p>
-☕️
+☕️ - Keep it short and strong.
 ⚡ - Lover of anything Cyberpunk
 🎮 - Current game du jour - Tiny Epic Tactics (I've gone boardgame for a bit)
 
