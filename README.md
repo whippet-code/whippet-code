@@ -9,6 +9,8 @@
   
 ### I'm a UK based full stack web developer, currently working with Javascript, React, node.js technologies and an inquisitive mind.
 
+[Portfolio](https://m-ivkovic-dev-portfolio.onrender.com/)
+
 #### 🔭 Current project - Generative AI prompt builder for PhotoMooch App. Utilising OpenAI API to create creative prompts, titles and images, vanilla JS feature add-on.
 
 Previous build was updating PhotoMooch. My full stack web app linked to @photo_mooch on Instagram. A creative prompt, art therapy app. MongoDB, Express.js, React build. Refactoring some parts and adding some extra functionality. 
@@ -17,8 +19,6 @@ Feel free to have a play - <a href="https://photomooch.onrender.com/">PhotoMooch
 🌱 I’m currently working with [Grimm & Co.](https://grimmandco.co.uk/) to update and modernise thier site. This has me rapidly getting to grips with Wordpress whilst also dealing with a legacy site which require improvements with respects performance and modern standards.
 
 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/mark-ivkovic-68822474/)
-
-#### ![Portfolio](https://m-ivkovic-dev-portfolio.onrender.com/)
 
 ## 💬 Ask me about breathing (trust me, it's more complex than you know).
 
