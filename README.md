@@ -1,7 +1,7 @@
 
 ## 👋 Hi there, Mark here.
   
-### I'm a UK based full web developer, currently working at Digitronix Ltd. UK. 
+### I'm a UK based full web developer, currently working at [Digitronix Ltd](https://www.digitronix.co.uk) UK. 
 #### Working with a mix of technologies from PHP full custom wordpress site builds, hosting and support, React Games, and html5 ads and emails.
 
 [Portfolio](https://m-ivkovic-dev-portfolio.onrender.com/)
