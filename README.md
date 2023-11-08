@@ -1,22 +1,15 @@
 
 ## 👋 Hi there, Mark here.
-<p align="center">
- <code><img height="30" src="https://raw.githubusercontent.com/dereknguyen269/dereknguyen269/master/images/reactjs.png"></code>React
- <code><img height="30" src="https://raw.githubusercontent.com/dereknguyen269/dereknguyen269/master/images/js.png"></code>Javascript
- <code><img height="30" src="https://raw.githubusercontent.com/github/explore/5cc0a03a302ec862c4aeac2a22a513ae31c35432/topics/astro/astro.png"></code>Astro
- <code><img height="30" src="https://e7.pngegg.com/pngimages/493/735/png-clipart-node-js-javascript-express-js-mongodb-github-github-angle-text.png"></code>node.js
-</p>
   
-### I'm a UK based full stack web developer, currently working with Javascript, React, node.js technologies and an inquisitive mind.
+### I'm a UK based full web developer, currently working at Digitronix Ltd. UK. 
+#### Working with a mix of technologies from PHP full custom wordpress site builds, hosting and support, React Games, and html5 ads and emails.
 
 [Portfolio](https://m-ivkovic-dev-portfolio.onrender.com/)
 
-#### 🔭 Current project - Generative AI prompt builder for PhotoMooch App. Utilising OpenAI API to create creative prompts, titles and images, vanilla JS feature add-on.
+#### 🔭 Current Personal Project - An in house "hands-free" automation tool to utilise AI & scripting to auto-build html5 ads once creatives have designed assets.
 
 Previous build was updating PhotoMooch. My full stack web app linked to @photo_mooch on Instagram. A creative prompt, art therapy app. MongoDB, Express.js, React build. Refactoring some parts and adding some extra functionality. 
 Feel free to have a play - <a href="https://photomooch.onrender.com/">PhotoMooch</a>
-
-🌱 I’m currently working with [Grimm & Co.](https://grimmandco.co.uk/) to update and modernise thier site. This has me rapidly getting to grips with Wordpress whilst also dealing with a legacy site which require improvements with respects performance and modern standards.
 
 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/mark-ivkovic-68822474/)
 
