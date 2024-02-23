@@ -2,6 +2,7 @@
 ## 👋 Hi there, Mark here.
   
 ### I'm a UK based web developer, currently working at [Digitronix Ltd](https://www.digitronix.co.uk) UK. 
+### Work can also be found here [gitlab](https://gitlab.com/mark.i)
 #### Working with a mix of technologies from PHP full custom wordpress site builds, hosting and support, React Games, and html5 ads and emails.
 
 [Portfolio](https://m-ivkovic-dev-portfolio.onrender.com/)
