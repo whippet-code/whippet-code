@@ -4,7 +4,8 @@
 ### I'm a UK based web developer, currently working at [Digitronix Ltd](https://www.digitronix.co.uk) UK. 
 ### Work can also be found here [gitlab](https://gitlab.com/mark.i)
 #### Professionally working with a mix of technologies from PHP full custom wordpress site builds, hosting and support, React Games, and html5 ads and emails.
-#### Personally currently working with Laravel & HUGO builds. 
+#### Personally currently working with Laravel & Astro builds. 
+##### Currently playing with an Astro & headless wordpress build.
 
 [Portfolio](https://m-ivkovic-dev-portfolio.onrender.com/)
 
@@ -26,7 +27,7 @@ Often found running the local hills and trails or bobbing about in the local lak
   <img src="https://images.unsplash.com/photo-1515335352276-2fa88c590bb3?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80" height="500px">
 </p>
 ☕️ - Keep it short and strong.
-⚡ - Lover of anything Cyberpunk
+⚡ - Lover of anything Cyberpunk.
 🎮 - Current game du jour - Tiny Epic Tactics (I've gone boardgame for a bit)
 
 
