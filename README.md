@@ -24,7 +24,7 @@ Often found running the local hills and trails or bobbing about in the local lak
 
 ☕️
 <p align="center">
-  <img src="https://images.unsplash.com/photo-1515335352276-2fa88c590bb3?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80" height="500px">
+  <img src="https://cdn.discordapp.com/attachments/1086181330389311549/1210897990223536199/mark_i_Rene_Magritte_and_Max_Ernst_style_regency_whippet_zen__b85977ad-c13a-45c4-a932-042ef86105f6_0.png?ex=65ec3ba2&is=65d9c6a2&hm=54735c89612cb26ec896934eb4d59c3b34a5cbd40443cd010b49e7b1bf04f980&" height="300px">
 </p>
 ☕️ - Keep it short and strong.
 ⚡ - Lover of anything Cyberpunk.
