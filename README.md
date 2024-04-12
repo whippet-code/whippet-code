@@ -4,12 +4,12 @@
 ### I'm a UK based web developer, currently working at [Digitronix Ltd](https://www.digitronix.co.uk) UK. 
 ### Work can also be found here [gitlab](https://gitlab.com/mark.i)
 #### Professionally working with a mix of technologies from PHP full custom wordpress site builds, hosting and support, React Games, and html5 ads and emails.
-#### Personally currently working with Laravel & Astro builds. 
-##### Currently playing with an Astro & headless wordpress build.
+#### Personally currently playing with p5*js & React builds. 
+##### 🌱 I’m currently learning how generative code & design can interweave to provide a deeper user conection.
 
 [Portfolio](https://m-ivkovic-dev-portfolio.onrender.com/)
 
-#### 🔭 Current Personal Project - An in house "hands-free" automation tool to utilise AI & scripting to auto-build html5 ads once creatives have designed assets.
+#### 🔭 Current Personal Project - 404 Page Archive (coming soon)
 
 Previous build was updating PhotoMooch. My full stack web app linked to @photo_mooch on Instagram. A creative prompt, art therapy app. MongoDB, Express.js, React build. Refactoring some parts and adding some extra functionality. 
 Feel free to have a play - <a href="https://photomooch.onrender.com/">PhotoMooch</a>
