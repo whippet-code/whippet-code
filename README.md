@@ -4,7 +4,7 @@
 ### I'm a UK based web developer, currently working at [Digitronix Ltd](https://www.digitronix.co.uk) UK. 
 ### Work can also be found here [gitlab](https://gitlab.com/mark.i)
 #### Professionally working with a mix of technologies from PHP full custom wordpress site builds, hosting and support, React Games, and html5 ads and emails.
-#### Personally currently playing with p5*js & React builds. 
+#### Personally currently playing in the boundaries between code and design, mixing my visual background with my code based brain. p5*js / processing / javascript / generative design systems.
 ##### 🌱 I’m currently learning how generative code & design can interweave to provide a deeper user conection.
 
 [Portfolio](https://m-ivkovic-dev-portfolio.onrender.com/)
