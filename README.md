@@ -6,6 +6,7 @@
 #### Professionally working with a mix of technologies from PHP full custom wordpress site builds, hosting and support, React Games, and html5 ads and emails.
 #### Personally currently playing in the boundaries between code and design, mixing my visual background with my code based brain. p5*js / processing / javascript / generative design systems.
 ##### 🌱 I’m currently learning how generative code & design can interweave to provide a deeper user conection.
+##### Plus the usual Soy dev React / next / { insert latest cool stack here } •͡˘㇁•͡˘
 
 [Portfolio](https://m-ivkovic-dev-portfolio.onrender.com/)
 
