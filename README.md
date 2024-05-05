@@ -5,8 +5,12 @@
 ### Work can also be found here [gitlab](https://gitlab.com/mark.i)
 #### Professionally working with a mix of technologies from PHP full custom wordpress site builds, hosting and support, React Games, and html5 ads and emails.
 #### Personally currently playing in the boundaries between code and design, mixing my visual background with my code based brain. p5*js / processing / javascript / generative design systems.
+
 ##### 🌱 I’m currently learning how generative code & design can interweave to provide a deeper user conection.
-##### Plus the usual Soy dev React / next / { insert latest cool stack here } •͡˘㇁•͡˘
+##### 🌱 Plus the usual Soy dev React / next / { insert latest cool stack here } •͡˘㇁•͡˘
+
+
+##### ⚡ Cycle-geek / Velo-nerd / Keeper of the cog / Pedal Monkey / Bike-snob
 
 [Portfolio](https://m-ivkovic-dev-portfolio.onrender.com/)
 
@@ -19,16 +23,17 @@ Feel free to have a play - <a href="https://photomooch.onrender.com/">PhotoMooch
 
 ## 💬 Ask me about breathing (trust me, it's more complex than you know).
 
-🐕 Papa to a rascally whippet. 
+🐕 Papa to a rascally whippet. </br>
 ⚡ Fun fact: Currently addicted to [Starcade](https://www.youtube.com/@starcade6611)
-Often found running the local hills and trails or bobbing about in the local lakes & rivers.
 
 ☕️
 <p align="center">
   <img src="https://source.unsplash.com/random/900×700/?coffee" height="300px">
 </p>
-☕️ - Keep it short and strong.
-⚡ - Lover of anything Cyberpunk.
+
+☕️ - Keep it short and strong.</br>
+
+⚡ - Lover of anything Cyberpunk.</br>
 🎮 - Current game du jour - Tiny Epic Tactics (I've gone boardgame for a bit)
 
 
