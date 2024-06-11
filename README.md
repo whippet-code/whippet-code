@@ -6,7 +6,7 @@
 #### Professionally working with a mix of technologies from PHP full custom wordpress site builds, hosting and support, React Games, and html5 ads and emails.
 #### Freelance working with Laravel / TALL stack (Tailwind css, Alpine JS, Laravel & Livewire)
 <p align="center">
-<img src="https://laravel.com/img/logomark.min.svg"><img src="https://laravel.com/img/logomark.min.svg"><img src="https://laravel.com/img/logomark.min.svg"><img src="https://laravel.com/img/logomark.min.svg"><img src="https://laravel.com/img/logomark.min.svg">
+<img src="https://laravel.com/img/logomark.min.svg"><span>  </span><img src="https://laravel.com/img/logomark.min.svg"><img src="https://laravel.com/img/logomark.min.svg"><img src="https://laravel.com/img/logomark.min.svg"><img src="https://laravel.com/img/logomark.min.svg">
 </p>
 #### Personally currently playing in the boundaries between code and design, mixing my visual background with my code based brain. p5*js / processing / javascript / generative design systems.
 
