@@ -3,8 +3,8 @@
   
 ### I'm a UK based web developer, currently working at [Digitronix Ltd](https://www.digitronix.co.uk) UK. 
 ### Work can also be found here [gitlab](https://gitlab.com/mark.i)
-#### Professionally working with a mix of technologies from PHP full custom wordpress site builds, hosting and support, React Games, and html5 ads and emails.
-#### Freelance working with Laravel / TALL stack (Tailwind css, Alpine JS, Laravel & Livewire)
+#### Professionally working with a mix of technologies from PHP full custom wordpress theme & plug-in site builds, hosting and support, React Games, and html5 ads and emails.
+#### Freelance working with Laravel & TALL stack (Tailwind css, Alpine JS, Laravel & Livewire). 
 <p align="center">
 <img src="https://laravel.com/img/logomark.min.svg"><span>  </span><img src="https://laravel.com/img/logomark.min.svg"><span>  </span><img src="https://laravel.com/img/logomark.min.svg"><span>  </span><img src="https://laravel.com/img/logomark.min.svg"><span>  </span>
 </p>
@@ -20,7 +20,7 @@
 
 #### 🔭 Current Personal Project - 404 Page Archive (coming soon)
 
-Previous build was updating PhotoMooch. My full stack web app linked to @photo_mooch on Instagram. A creative prompt, art therapy app. MongoDB, Express.js, React build. Refactoring some parts and adding some extra functionality. 
+Previous build was updating PhotoMooch. My full stack web app linked to @photo_mooch on Instagram. A creative prompt, art therapy app with added AI creative prompt generation. MongoDB, Express.js, React build with OpenAI API. 
 Feel free to have a play - <a href="https://photomooch.onrender.com/">PhotoMooch</a>
 
 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/mark-ivkovic-68822474/)
