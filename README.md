@@ -4,10 +4,14 @@
 ### I'm a UK based web developer, currently working at [Digitronix Ltd](https://www.digitronix.co.uk) UK. 
 ### Work can also be found here [gitlab](https://gitlab.com/mark.i)
 #### Professionally working with a mix of technologies from PHP full custom wordpress site builds, hosting and support, React Games, and html5 ads and emails.
+#### Freelance working with Laravel / TALL stack (Tailwind css, Alpine JS, Laravel & Livewire)
+<p align="center">
+<img src="https://laravel-livewire.com/img/underwater_jelly.svg"><img src="https://laravel.com/img/logomark.min.svg">
+</p>
 #### Personally currently playing in the boundaries between code and design, mixing my visual background with my code based brain. p5*js / processing / javascript / generative design systems.
 
 ##### 🌱 I’m currently learning how generative code & design can interweave to provide a deeper user conection.
-##### 🌱 Plus the usual Soy dev React / next / { insert latest cool stack here } •͡˘㇁•͡˘
+•͡˘㇁•͡˘
 
 
 ##### ⚡ Cycle-geek / Velo-nerd / Keeper of the cog / Pedal Monkey / Bike-snob
