@@ -16,14 +16,13 @@
 
 #### ⚡ Running Cult Member / Mindful Athlete / Beyond Runner / Cycle-geek / Pedal Monkey / Bike-snob
 
-[Portfolio](https://m-ivkovic-dev-portfolio.onrender.com/)
-
 #### 🔭 Current Personal Project - [Playdate game](https://play.date/) - Gaffa taped together using LUA and LÖVE (always with love ❤️)
 
 Previous build was updating PhotoMooch. My full stack web app linked to @photo_mooch on Instagram. A creative prompt, art therapy app with added AI creative prompt generation. MongoDB, Express.js, React build with OpenAI API. 
 Feel free to have a play - <a href="https://photomooch.onrender.com/">PhotoMooch</a>
 
 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/mark-ivkovic-68822474/)
+[Portfolio](https://m-ivkovic-dev-portfolio.onrender.com/)
 
 #### 💬 Ask me about breathing (trust me, it's more complex than you know).
 - 🐕 Papa to a rascally whippet. </br>
