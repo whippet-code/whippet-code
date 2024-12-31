@@ -27,8 +27,10 @@ Feel free to have a play - <a href="https://photomooch.onrender.com/">PhotoMooch
 
 ## 💬 Ask me about breathing (trust me, it's more complex than you know).
 
-🐕 Papa to a rascally whippet. </br>
-⚡ Fun fact: Currently addicted to [Starcade](https://www.youtube.com/@starcade6611)
+- 🐕 Papa to a rascally whippet. </br>
+- ⚡ Fun fact: Currently addicted to [Starcade](https://www.youtube.com/@starcade6611)
+- ⚡ - Lover of anything Cyberpunk.</br>
+- 🎮 - Current game du jour - [Citizen Sleeper](https://store.steampowered.com/app/1578650/Citizen_Sleeper/)
 
 ☕️
 <p align="center">
@@ -36,9 +38,6 @@ Feel free to have a play - <a href="https://photomooch.onrender.com/">PhotoMooch
 </p>
 
 ☕️ - Keep it short and strong.</br>
-
-⚡ - Lover of anything Cyberpunk.</br>
-🎮 - Current game du jour - [Citizen Sleeper](https://store.steampowered.com/app/1578650/Citizen_Sleeper/)
 
 
 <!--
