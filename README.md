@@ -32,7 +32,7 @@ Feel free to have a play - <a href="https://photomooch.onrender.com/">PhotoMooch
 
 ☕️
 <p align="center">
-  <img src="https://images.unsplash.com/photo-1655933146525-ef75619c20f8?q=80&w=2140&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" height="300px">
+  <img src="https://images.unsplash.com/photo-1655933146525-ef75619c20f8?q=80&w=2140&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D">
 </p>
 
 ☕️ - Keep it short and strong.</br>
