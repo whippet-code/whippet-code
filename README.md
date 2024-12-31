@@ -1,7 +1,7 @@
 
 ## 👋 Hi there, Mark here.
   
-### I'm a UK based web developer, currently working at [Digitronix Ltd](https://www.digitronix.co.uk) UK. 
+### I'm a UK based web developer, currently working at [Osborne Technologies](https://www.osbornetechnologies.co.uk/) UK. 
 ### Work can also be found here [gitlab](https://gitlab.com/mark.i)
 #### Professionally working with a mix of technologies from PHP full custom wordpress theme & plug-in site builds, hosting and support, React Games, and html5 ads and emails.
 #### Freelance working with Laravel & TALL stack (Tailwind css, Alpine JS, Laravel & Livewire). 
@@ -14,11 +14,11 @@
 •͡˘㇁•͡˘
 
 
-##### ⚡ Cycle-geek / Velo-nerd / Keeper of the cog / Pedal Monkey / Bike-snob
+##### ⚡ Running Cult Member / Mindful Athlete / Beyond Runner / Cycle-geek / Pedal Monkey / Bike-snob
 
 [Portfolio](https://m-ivkovic-dev-portfolio.onrender.com/)
 
-#### 🔭 Current Personal Project - 404 Page Archive (coming soon)
+#### 🔭 Current Personal Project - [Playdate game](https://play.date/) - Gaffa taped together using LUA and LÖVE (always with love ❤️)
 
 Previous build was updating PhotoMooch. My full stack web app linked to @photo_mooch on Instagram. A creative prompt, art therapy app with added AI creative prompt generation. MongoDB, Express.js, React build with OpenAI API. 
 Feel free to have a play - <a href="https://photomooch.onrender.com/">PhotoMooch</a>
@@ -32,13 +32,13 @@ Feel free to have a play - <a href="https://photomooch.onrender.com/">PhotoMooch
 
 ☕️
 <p align="center">
-  <img src="https://source.unsplash.com/random/900×700/?coffee" height="300px">
+  <img src="https://images.unsplash.com/photo-1655933146525-ef75619c20f8?q=80&w=2140&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" height="300px">
 </p>
 
 ☕️ - Keep it short and strong.</br>
 
 ⚡ - Lover of anything Cyberpunk.</br>
-🎮 - Current game du jour - Tiny Epic Tactics (I've gone boardgame for a bit)
+🎮 - Current game du jour - [Citizen Sleeper](https://store.steampowered.com/app/1578650/Citizen_Sleeper/)
 
 
 <!--
