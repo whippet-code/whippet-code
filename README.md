@@ -22,6 +22,7 @@ Previous build was updating PhotoMooch. My full stack web app linked to @photo_m
 Feel free to have a play - <a href="https://photomooch.onrender.com/">PhotoMooch</a>
 
 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/mark-ivkovic-68822474/)
+
 [Portfolio](https://m-ivkovic-dev-portfolio.onrender.com/)
 
 #### 💬 Ask me about breathing (trust me, it's more complex than you know).
