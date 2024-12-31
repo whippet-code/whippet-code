@@ -8,13 +8,13 @@
 <p align="center">
 <img src="https://laravel.com/img/logomark.min.svg"><span>  </span><img src="https://laravel.com/img/logomark.min.svg"><span>  </span><img src="https://laravel.com/img/logomark.min.svg"><span>  </span><img src="https://laravel.com/img/logomark.min.svg"><span>  </span>
 </p>
+
 #### Personally currently playing in the boundaries between code and design, mixing my visual background with my code based brain. p5*js / processing / javascript / generative design systems.
 
 ##### 🌱 I’m currently learning how generative code & design can interweave to provide a deeper user conection.
 •͡˘㇁•͡˘
 
-
-##### ⚡ Running Cult Member / Mindful Athlete / Beyond Runner / Cycle-geek / Pedal Monkey / Bike-snob
+#### ⚡ Running Cult Member / Mindful Athlete / Beyond Runner / Cycle-geek / Pedal Monkey / Bike-snob
 
 [Portfolio](https://m-ivkovic-dev-portfolio.onrender.com/)
 
@@ -25,8 +25,7 @@ Feel free to have a play - <a href="https://photomooch.onrender.com/">PhotoMooch
 
 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/mark-ivkovic-68822474/)
 
-## 💬 Ask me about breathing (trust me, it's more complex than you know).
-
+#### 💬 Ask me about breathing (trust me, it's more complex than you know).
 - 🐕 Papa to a rascally whippet. </br>
 - ⚡ Fun fact: Currently addicted to [Starcade](https://www.youtube.com/@starcade6611)
 - ⚡ - Lover of anything Cyberpunk.</br>
