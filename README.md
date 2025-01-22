@@ -1,9 +1,9 @@
 
 ## 👋 Hi there, Mark here.
   
-### I'm a UK based web developer, currently working at [Osborne Technologies](https://www.osbornetechnologies.co.uk/) UK. 
-### Work can also be found here [gitlab](https://gitlab.com/mark.i)
-#### Professionally working with a mix of technologies from PHP full custom wordpress theme & plug-in site builds, hosting and support, React Games, and html5 ads and emails.
+### I'm a UK based web developer, currently full-time at [Osborne Technologies](https://www.osbornetechnologies.co.uk/) UK. 
+
+#### At Osborne - working with a mix of technologies from PHP full custom sites, bespoke wordpress theme & plug-in site builds, customer facing portal front-end, hosting and support. 
 #### Freelance working with Laravel & TALL stack (Tailwind css, Alpine JS, Laravel & Livewire). 
 <p align="center">
 <img src="https://laravel.com/img/logomark.min.svg"><span>  </span><img src="https://laravel.com/img/logomark.min.svg"><span>  </span><img src="https://laravel.com/img/logomark.min.svg"><span>  </span><img src="https://laravel.com/img/logomark.min.svg"><span>  </span>
