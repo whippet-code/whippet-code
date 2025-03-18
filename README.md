@@ -3,13 +3,13 @@
   
 ### I'm a UK based web developer, currently full-time at [Osborne Technologies](https://www.osbornetechnologies.co.uk/) UK. 
 
-#### At Osborne - working with a mix of technologies from PHP full custom sites, bespoke wordpress theme & plug-in site builds, customer facing portal front-end, hosting and support. 
-#### Freelance working with Laravel & TALL stack (Tailwind css, Alpine JS, Laravel & Livewire). 
+#### At Osborne - Working with a mix of technologies from PHP full custom sites, Statamic/Laravel builds, bespoke wordpress theme & plug-in site builds, hosting and support.
+#### Freelance working with Laravel & TALL stack (Tailwind css, Alpine JS, Laravel & Livewire). Also finding joy in Statamic as a build solution.
 <p align="center">
 <img src="https://laravel.com/img/logomark.min.svg"><span>  </span><img src="https://laravel.com/img/logomark.min.svg"><span>  </span><img src="https://laravel.com/img/logomark.min.svg"><span>  </span><img src="https://laravel.com/img/logomark.min.svg"><span>  </span>
 </p>
 
-#### Personally currently playing in the boundaries between code and design, mixing my visual background with my code based brain. p5*js / processing / javascript / generative design systems.
+#### Personally currently playing in the boundaries between running as exercise and as experience. Web app solution that sits in the "Wellness" category I guess.
 
 ##### 🌱 I’m currently learning how generative code & design can interweave to provide a deeper user conection.
 •͡˘㇁•͡˘
