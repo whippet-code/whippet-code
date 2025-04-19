@@ -4,7 +4,7 @@
 ### I'm a UK based web developer, currently full-time at [Osborne Technologies](https://www.osbornetechnologies.co.uk/) UK. 
 
 #### At Osborne - Working with a mix of technologies from PHP full custom sites, Statamic/Laravel builds, bespoke wordpress theme & plug-in site builds, hosting and support.
-#### Freelance - Working with Laravel & TALL stack (Tailwind css, Alpine JS, Laravel & Livewire). Also finding joy in Statamic as a build solution.
+
 #### Artistically - Working with p5.js & print making to find ways of merging digital, analog, virtual, real, online & off-line.
 
 <p align="center">
