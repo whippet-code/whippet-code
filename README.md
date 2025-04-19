@@ -8,7 +8,7 @@
 #### Artisticly - Working with p5.js & print making to find ways of merging digital, analog, virtual, real, online & off-line.
 
 <p align="center">
-<img src="https://laravel.com/img/logomark.min.svg"><span>  </span><img src="[https://laravel.com/img/logomark.min.svg](https://icon.icepanel.io/Technology/svg/p5-JS.svg)"><span>  </span><img src="https://laravel.com/img/logomark.min.svg"><span>  </span><img src="https://laravel.com/img/logomark.min.svg"><span>  </span>
+<img src="https://laravel.com/img/logomark.min.svg"><span>  </span><img src="https://icon.icepanel.io/Technology/svg/p5-JS.svg"><span>  </span><img src="https://laravel.com/img/logomark.min.svg"><span>  </span><img src="https://laravel.com/img/logomark.min.svg"><span>  </span>
 </p>
 
 #### Personally currently playing in the boundaries between generative design, algorithmic visuals and real world artifacts (p5.js, data, print making).
