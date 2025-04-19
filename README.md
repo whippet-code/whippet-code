@@ -4,12 +4,14 @@
 ### I'm a UK based web developer, currently full-time at [Osborne Technologies](https://www.osbornetechnologies.co.uk/) UK. 
 
 #### At Osborne - Working with a mix of technologies from PHP full custom sites, Statamic/Laravel builds, bespoke wordpress theme & plug-in site builds, hosting and support.
-#### Freelance working with Laravel & TALL stack (Tailwind css, Alpine JS, Laravel & Livewire). Also finding joy in Statamic as a build solution.
+#### Freelance - Working with Laravel & TALL stack (Tailwind css, Alpine JS, Laravel & Livewire). Also finding joy in Statamic as a build solution.
+#### Artisticly - Working with p5.js & print making to find ways of merging digital, analog, virtual, real, online & off-line.
+
 <p align="center">
-<img src="https://laravel.com/img/logomark.min.svg"><span>  </span><img src="https://laravel.com/img/logomark.min.svg"><span>  </span><img src="https://laravel.com/img/logomark.min.svg"><span>  </span><img src="https://laravel.com/img/logomark.min.svg"><span>  </span>
+<img src="https://laravel.com/img/logomark.min.svg"><span>  </span><img src="[https://laravel.com/img/logomark.min.svg](https://icon.icepanel.io/Technology/svg/p5-JS.svg)"><span>  </span><img src="https://laravel.com/img/logomark.min.svg"><span>  </span><img src="https://laravel.com/img/logomark.min.svg"><span>  </span>
 </p>
 
-#### Personally currently playing in the boundaries between running as exercise and as experience. Web app solution that sits in the "Wellness" category I guess.
+#### Personally currently playing in the boundaries between generative design, algorithmic visuals and real world artifacts (p5.js, data, print making).
 
 ##### 🌱 I’m currently learning how generative code & design can interweave to provide a deeper user conection.
 •͡˘㇁•͡˘
