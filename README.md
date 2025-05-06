@@ -17,7 +17,6 @@
 
 #### Personally currently playing in the boundaries between generative design, algorithmic visuals and real world artifacts (p5.js, data, print making).
 
-##### 🌱 I’m currently learning how generative code & design can interweave to provide a deeper user conection.
 •͡˘㇁•͡˘
 
 #### ⚡ Running Cult Member / Mindful Athlete / Beyond Running 
@@ -32,7 +31,7 @@ Feel free to have a play - <a href="https://photomooch.onrender.com/">PhotoMooch
 
 #### 💬 Ask me about breathing (trust me, it's more complex than you know).
 - 🐕 Papa to a rascally whippet. </br>
-- ⚡ Fun fact: Currently addicted to [Starcade](https://www.youtube.com/@starcade6611)
+- ⚡ Fun fact: Addicted to [Starcade](https://www.youtube.com/@starcade6611)
 - ⚡ - Lover of anything Cyberpunk.</br>
 - 🎮 - Current game du jour - [Citizen Sleeper](https://store.steampowered.com/app/1578650/Citizen_Sleeper/)
 
