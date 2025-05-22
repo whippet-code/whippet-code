@@ -5,7 +5,7 @@
 
 #### At Osborne - Working with a mix of technologies from PHP full custom sites, Statamic/Laravel builds, bespoke wordpress theme & plug-in site builds, hosting and support.
 
-#### Artistically - Working with p5.js & print making to find ways of merging digital, analog, virtual, real, online & off-line.
+#### Artistically - Working with pico-8, p5.js & print making to find ways of merging digital, analog, virtual, real, online & off-line.
 
 <p align="center">
   <span> </span>
@@ -15,12 +15,12 @@
   <span> </span>
 </p>
 
-#### Personally currently playing in the boundaries between generative design, algorithmic visuals and real world artifacts (p5.js, data, print making).
+#### Personally currently playing in the boundaries of tiny code and fantasty consoles with pico-8.
 
 •͡˘㇁•͡˘
 
 #### ⚡ Running Cult Member / Mindful Athlete / Beyond Running 
-#### 🔭 Current Personal Project - [Playdate game](https://play.date/) - Gaffa taped together using LUA and LÖVE (always with love ❤️)
+#### 🔭 Current Personal Project - A retro homage to my obsession with old video games using pico-8. Just trying to rebuild all my old favs using the cutest dev experience in the world. [Pico-8 Profile](https://www.lexaloffle.com/bbs/?uid=123698)
 
 Previous build was updating PhotoMooch. My full stack web app linked to @photo_mooch on Instagram. A creative prompt, art therapy app with added AI creative prompt generation. MongoDB, Express.js, React build with OpenAI API. 
 Feel free to have a play - <a href="https://photomooch.onrender.com/">PhotoMooch</a>
