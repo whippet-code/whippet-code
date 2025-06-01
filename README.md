@@ -20,7 +20,7 @@
 •͡˘㇁•͡˘
 
 #### ⚡ Running Cult Member / Mindful Athlete / Beyond Running 
-#### 🔭 Current Personal Project - A retro homage to my obsession with old video games using pico-8. Just trying to rebuild all my old favs using the cutest dev experience in the world. [Pico-8 Profile](https://www.lexaloffle.com/bbs/?uid=123698)
+#### 🔭 Current Personal Project - A web3 dev deepdive.
 
 Previous build was updating PhotoMooch. My full stack web app linked to @photo_mooch on Instagram. A creative prompt, art therapy app with added AI creative prompt generation. MongoDB, Express.js, React build with OpenAI API. 
 Feel free to have a play - <a href="https://photomooch.onrender.com/">PhotoMooch</a>
