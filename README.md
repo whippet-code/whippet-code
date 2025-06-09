@@ -5,7 +5,8 @@
 
 #### At Osborne - Working with a mix of technologies from PHP full custom sites, Statamic/Laravel builds, bespoke wordpress theme & plug-in site builds, hosting and support.
 
-#### Artistically - Working with pico-8, p5.js & print making to find ways of merging digital, analog, virtual, real, online & off-line.
+#### Personally - Helping tidy up web3 and make it feel a little cosier for the "every person".
+
 
 <p align="center">
   <span> </span>
@@ -15,12 +16,10 @@
   <span> </span>
 </p>
 
-#### Personally currently playing in the boundaries of tiny code and fantasty consoles with pico-8.
-
 •͡˘㇁•͡˘
 
+#### Artistically - Working with pico-8, p5.js & print making to find ways of merging digital, analog, virtual, real, online & off-line.
 #### ⚡ Running Cult Member / Mindful Athlete / Beyond Running 
-#### 🔭 Current Personal Project - A web3 dev deepdive.
 
 Previous build was updating PhotoMooch. My full stack web app linked to @photo_mooch on Instagram. A creative prompt, art therapy app with added AI creative prompt generation. MongoDB, Express.js, React build with OpenAI API. 
 Feel free to have a play - <a href="https://photomooch.onrender.com/">PhotoMooch</a>
