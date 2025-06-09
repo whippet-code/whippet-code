@@ -10,7 +10,7 @@
 <p align="center">
   <span> </span>
   <br>
-<img src="https://laravel.com/img/logomark.min.svg" height="80px"><span>        </span><img src="https://icon.icepanel.io/Technology/svg/p5-JS.svg" height="80px"><span>        </span><img src="https://statamic.com/assets/branding/squircle/statamic-mark-pink.svg" height="80px">
+<img src="https://docs.soliditylang.org/en/latest/_images/solidity_logo.svg" height="80px">  <span>  <img src="https://laravel.com/img/logomark.min.svg" height="80px"><span>        </span><img src="https://icon.icepanel.io/Technology/svg/p5-JS.svg" height="80px"><span>        </span><img src="https://statamic.com/assets/branding/squircle/statamic-mark-pink.svg" height="80px">
   <br>
   <span> </span>
 </p>
