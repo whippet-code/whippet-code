@@ -5,7 +5,7 @@
 
 #### At Osborne - Working with a mix of technologies from PHP full custom sites, Statamic/Laravel builds, bespoke wordpress theme & plug-in site builds, hosting and support.
 
-#### Personally - Helping tidy up web3 and make it feel a little cosier for the "every person".
+#### Personally - Playing with finding the beauty hidden in the code out there. - Incoming project mixing code, visuals and a little sprinkle of serendipity.
 
 
 <p align="center">
