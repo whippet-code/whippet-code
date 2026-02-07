@@ -19,7 +19,7 @@
 •͡˘㇁•͡˘
 
 #### Artistically - Working with processing, p5.js & print making to find ways of merging digital, analog, virtual, real, online & off-line.
-#### ⚡ Running Cult Member / Mindful Athlete / Zwift addict 
+#### ⚡ Running Cult Member / Old enough to know better but young enough to still skate. 
 
 Previous build was updating PhotoMooch. My full stack web app linked to @photo_mooch on Instagram. A creative prompt, art therapy app with added AI creative prompt generation. MongoDB, Express.js, React build with OpenAI API. 
 Feel free to have a play - <a href="https://photomooch.onrender.com/">PhotoMooch</a>
@@ -28,7 +28,6 @@ Feel free to have a play - <a href="https://photomooch.onrender.com/">PhotoMooch
 
 [Portfolio](https://m-ivkovic-dev-portfolio.onrender.com/)
 
-#### 💬 Ask me about breathing (trust me, it's more complex than you know).
 - 🐕 Papa to a rascally whippet. </br>
 - ⚡ Fun fact: Addicted to [Starcade](https://www.youtube.com/@starcadetvv)
 - ⚡ - Lover of anything Cyberpunk.</br>
