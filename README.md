@@ -3,7 +3,7 @@
   
 ### I'm a UK based Senior Web dev and DevOps engineer, currently full-time at [Osborne Technologies](https://www.osbornetechnologies.co.uk/) UK. 
 
-#### At Osborne - Snr Web Developer working with a mix of technologies from PHP full custom sites and portals. DevOps, architecting and maintaining CI/CD via automation and worksflow implementation. Statamic/Laravel builds, bespoke Wordpress theme & plug-in site builds, hosting, SEO and support.
+#### At Osborne - Snr Web Developer working with a mix of technologies from PHP full custom sites and portals. DevOps, architecting and maintaining CI/CD via automation and worksflow implementation. [Statamic/Laravel builds](https://auroraimmersive.co.uk), bespoke [Wordpress theme & plug-in site builds](https://enrysign.co.uk), hosting, SEO and support.
 
 #### Personally - Playing with finding the beauty hidden in the code out there. - Incoming project mixing code, visuals and a little sprinkle of serendipity.
 
