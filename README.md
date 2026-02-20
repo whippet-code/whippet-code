@@ -11,11 +11,10 @@
 <p align="center">
   <span> </span>
   <br>
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2KKbij-vaM7uwKs7w7uRV3OGczoTnecAhpg&s" height="80px">  <span><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLGIEDmHwvNss_HhFin5ErHSOf0-sgLLAV3A&s" height="80px">  <span>  <img src="https://laravel.com/img/logomark.min.svg" height="80px"><span>        </span><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStTOG0nntBoAhJjro4oqSnFHOkpgBbabc3Pw&s" height="80px"><span>        </span><img src="https://statamic.com/assets/branding/squircle/statamic-mark-pink.svg" height="80px">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2KKbij-vaM7uwKs7w7uRV3OGczoTnecAhpg&s" height="80px">  <span><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLGIEDmHwvNss_HhFin5ErHSOf0-sgLLAV3A&s" height="80px">  <span>  <img src="https://laravel.com/img/logomark.min.svg" height="80px"><span>        </span><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStTOG0nntBoAhJjro4oqSnFHOkpgBbabc3Pw&s" height="80px"><span>        </span><img src="https://statamic.com/assets/branding/squircle/statamic-mark-pink.svg" height="80px"></span><img src="https://2024.allthingsopen.org/wp-content/uploads/2024/05/Bronze_Warp-1.jpg" height="80px">
   <br>
   <span> </span>
 </p>
-
 •͡˘㇁•͡˘
 
 #### Artistically - Working with processing, p5.js & print making to find ways of merging digital, analog, virtual, real, online & off-line.
