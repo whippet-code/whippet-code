@@ -24,7 +24,7 @@
 •͡˘㇁•͡˘
 
 #### Artistically - Working with processing, p5.js & print making to find ways of merging digital, analog, virtual, real, online & off-line.
-#### ⚡ Running Cult Member / Old enough to know better but young enough to still skate. 
+#### ⚡ Running Cult Member
 
 Previous build was updating PhotoMooch. My full stack web app linked to @photo_mooch on Instagram. A creative prompt, art therapy app with added AI creative prompt generation. MongoDB, Express.js, React build with OpenAI API. 
 Feel free to have a play - <a href="https://photomooch.onrender.com/">PhotoMooch</a>
