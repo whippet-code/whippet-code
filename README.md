@@ -5,7 +5,7 @@
 
 #### At Osborne - Snr Web Developer working with a mix of technologies from PHP full custom sites and portals. DevOps, architecting and maintaining CI/CD via automation and worksflow implementation. [Statamic/Laravel builds](https://auroraimmersive.co.uk), bespoke [Wordpress theme & plug-in site builds](https://entrysign.co.uk), hosting, SEO and support.
 
-#### Personally - Playing with finding the beauty hidden in the code out there. - Incoming project mixing code, visuals and a little sprinkle of serendipity.
+#### Personally - Working with a bunch of folk on a multi-cart [pico8](https://www.lexaloffle.com/pico-8.php) collection. - Playing with finding the beauty hidden in the code out there. - Incoming project mixing code, visuals and a little sprinkle of serendipity.
 
 
 <p align="center">
@@ -32,8 +32,8 @@
 
 - 🐕 Papa to a rascally whippet. </br>
 - ⚡ Fun fact: Addicted to [Starcade](https://www.youtube.com/@starcadetvv)
-- ⚡ - Lover of anything Cyberpunk.</br>
-- 🎮 - Current game du jour - [Citizen Sleeper](https://store.steampowered.com/app/1578650/Citizen_Sleeper/)
+- ⚡ - Lover of anything William Gibson.</br>
+- 🎮 - Current game du jour - Cyberpunk 2077 - Switch 2
 
 ☕️
 <p align="center">
